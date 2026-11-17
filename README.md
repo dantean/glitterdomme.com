@@ -1,4 +1,4 @@
-﻿# Glitterdomme local demo
+# glitterdomme.com
 
 Open `dist/index.html` in a browser. The four pages work from local files without installing dependencies. The Google Form requires an internet connection.
 
