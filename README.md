@@ -1,6 +1,6 @@
 # glitterdomme.com
 
-Open `dist/index.html` in a browser. The three pages work from local files without installing dependencies. The external Google Form requires an internet connection.
+Open `dist/index.html` in a browser. The four pages work from local files without installing dependencies. The external Google Form requires an internet connection.
 
 Home and About Me copy live in `dist/index.html` and `dist/about.html`.
 

@@ -181,3 +181,13 @@ h2 { margin: 0; font-size: clamp(1.65rem, 4vw, 2.6rem); }
   .home-links a { font-size: 1.15rem; }
   .glitter span:nth-child(even) { display: none; }
 }
+
+.gift-list { list-style: none; padding: 0; margin: 0; }
+.gift-list li { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .25rem 1rem; padding-block: 1rem; }
+.gift-list li + li { border-top: 1px solid var(--rule); }
+.gift-list strong { color: var(--gold); white-space: nowrap; }
+.gift-note { color: var(--muted); font-size: .85rem; }
+
+@media (min-width: 721px) and (max-width: 980px) {
+  .masthead-inner { flex-direction: column; gap: 0; }
+}
